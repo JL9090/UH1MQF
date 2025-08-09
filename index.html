@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>54 HS | UH-1N MQF Quiz</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#0d3b86" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+  <meta name="color-scheme" content="light dark">
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="brand">
+      <img src="emblem.jpg" alt="54th Helicopter Squadron emblem" class="brand__emblem" />
+      <div class="brand__text">
+        <h1 class="brand__title">UH-1N MQF Quiz</h1>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button id="themeBtn" class="btn btn-secondary" aria-pressed="false" title="Toggle light/dark theme">🌙</button>
+    </div>
+  </header>
+
+  <main class="container" id="main" tabindex="-1">
+    <img src="uh1n-action.jpg" alt="" class="banner" />
+
+    <section class="panel" aria-labelledby="settingsTitle">
+      <h2 id="settingsTitle">Study Settings</h2>
+      <div class="settings-grid">
+        <label class="switch">
+          <input type="checkbox" id="shuffle">
+          <span>Shuffle</span>
+        </label>
+
+        <label class="inline">
+          Seed:
+          <input type="text" id="seedInput" placeholder="(optional)" />
+        </label>
+
+        <label class="switch">
+          <input type="checkbox" id="favoritesOnly">
+          <span>Favorites Only</span>
+        </label>
+
+        <label class="switch">
+          <input type="checkbox" id="feedback" checked>
+          <span>Immediate feedback</span>
+        </label>
+
+        <label class="switch">
+          <input type="checkbox" id="timerToggle">
+          <span>Timer</span>
+        </label>
+
+        <label class="switch">
+          <input type="checkbox" id="examMode">
+          <span>Exam Mode</span>
+        </label>
+
+        <label class="inline">
+          Questions:
+          <input type="number" id="questionCount" value="20" min="1" max="500" inputmode="numeric" />
+        </label>
+
+        <label class="inline" id="timerMinutesWrap" hidden>
+          Minutes:
+          <input type="number" id="timerMinutes" value="20" min="1" max="240" inputmode="numeric" />
+        </label>
+
+        <div class="settings-actions">
+          <button class="btn" id="startBtn">Start Quiz</button>
+          <button class="btn btn-secondary" id="startFlashBtn">Start Flashcards</button>
+          <button class="btn btn-secondary" id="resetBtn">Reset</button>
+        </div>
+      </div>
+    </section>
+
+    <div id="progressWrap" class="progress-wrap" hidden>
+      <div id="progressBar" class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
+      <div id="timer" class="timer" aria-live="polite"></div>
+    </div>
+
+    <section id="quizContainer" class="quiz"></section>
+
+    <section class="panel" id="analyticsPanel">
+      <h2>Results Analytics</h2>
+      <div id="analyticsContent" class="analytics"></div>
+    </section>
+
+    <footer class="footer">
+      <p class="disclaimer">For training use only. Send issues/ideas to TSgt. Loera.</p>
+    </footer>
+  </main>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => navigator.serviceWorker.register('sw.js'));
+    }
+  </script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "name": "54 HS UH-1N MQF Study",
+  "short_name": "54HS MQF",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d3b86",
+  "theme_color": "#0d3b86",
+  "icons": [
+    { "src": "emblem.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "emblem.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}

@@ -1,0 +1,831 @@
+1. Operating procedures, techniques, etc., which will result in personal injury or loss of life if not carefully followed.
+  Ref: TO 1H-1(U)N-1 Pg: xxii
+  A. Warning
+  B. Caution
+  C. Note
+  D. Shall or Will
+  Correct: A. Warning
+
+2. Operating procedures, techniques, etc., which will result in damage to equipment if not carefully followed.
+  Ref: TO 1H-1(U)N-1 Pg: xxii
+  A. Warning
+  B. Caution
+  C. Note
+  D. Should
+  Correct: B. Caution
+
+3. An operating procedure, technique, etc., which is considered essential to emphasize.
+  Ref: TO 1H-1(U)N-1 Pg: xxiii
+  A. Warning
+  B. Caution
+  C. Note
+  D. May
+  Correct: C. Note
+
+4. Used only when application of a procedure is mandatory.
+  Ref: TO 1H-1(U)N-1 Pg: xxiii
+  A. Shall or Will
+  B. Should
+  C. May
+  D. Warning
+  Correct: A. Shall or Will
+
+5. Used only when application of a procedure is recommended.
+  Ref: TO 1H-1(U)N-1 Pg: xxiii
+  A. Shall or Will
+  B. Should
+  C. May
+  D. Caution
+  Correct: B. Should
+
+6. Used to indicate an acceptable or suggested means of accomplishment.
+  Ref: TO 1H-1(U)N-1 Pg: xxiii
+  A. Shall or Will
+  B. Should
+  C. May
+  D. Note
+  Correct: C. May
+
+7. (Engine Fuel Control Units) When operating in AUTO, it is possible to exceed maximum _____.
+  Ref: TO 1H-1(U)N-1 Pg: 1-14
+  A. Ng and Nf only.
+  B. Q only.
+  C. ITT only.
+  D. Ng, Nf, Q, and ITT
+  Correct: D. Ng, Nf, Q, and ITT
+
+8. (Engine Fuel Control Units) When operating in MANUAL, it is possible to overspeed the _________, and to exceed ______.
+  Ref: TO 1H-1(U)N-1 Pg: 1-14
+  A. Ng turbine and Nf turbine,
+  B. Ng turbine and Nf turbine, Q
+  C. Ng turbine, ITT
+  D. Ng turbine and Nf turbine, ITT or Q
+  Correct: D. Ng turbine and Nf turbine, ITT or Q
+
+9. (Droop Compensator) When the rivet is sheared, the droop compensator is inoperative. The Nf governors will still control Nf RPM, but transient droop/overspeed and recovery time will increase. Collective adjustments should be ______ to prevent rotor decay or overspeeds.
+  Ref: TO 1H-1(U)N-1 Pg: 1-14
+  A. increased
+  B. slow
+  C. rapid
+  D. precise
+  Correct: B. slow
+
+10. (Governor Switch) It is possible to have a GOV MANUAL light and still be in the automatic mode if a malfunction exists in the ________.
+  Ref: TO 1H-1(U)N-1 Pg: 1-22
+  A. fuel control valve
+  B. solenoid
+  C. wiring
+  D. all of the above
+  Correct: D. all of the above
+
+11. (Pilot Override Switch) With the pilot override switch in the ____ position, it is possible to engage both starters simultaneously. This should not be attempted as an extreme voltage drain will occur possibly causing destruction of the aircraft battery.
+  Ref: TO 1H-1(U)N-1 Pg: 1-22
+  A. OFF
+  B. ON
+  C. AUTO
+  D. START
+  Correct: A. OFF
+
+12. (Rotor System) If _____ TEMP-PLATES are defective then a potential over-temp condition needs to be investigated. Do not fly and make an entry in the AFTO 781A.
+  Ref: TO 1H-1(U)N-1 Pg: 1-45
+  A. one
+  B. both
+  C. right
+  D. left
+  Correct: B. both
+
+13. (Collective Pitch Control Lever) The collective has a built in friction which requires a force to move the stick up from the neutral (center of travel) position of _____ to _____ pounds with boost ON.
+  Ref: TO 1H-1(U)N-1 Pg: 1-47
+  A. 2, 4
+  B. 5, 10
+  C. 8, 10
+  D. 11, 14
+  Correct: C. 8, 10
+
+14. (Fuel System Caution Panel) Do not press and hold the ________ switch.
+  Ref: TO 1H-1(U)N-1 Pg: 1-53
+  A. DAY LT BRT/DIM
+  B. BIT
+  C. ZERO CAL
+  D. LAMP TEST
+  Correct: C. ZERO CAL
+
+15. (RPM Warning System) The RPM warning light on the instrument panel illuminates whenever Nr drops below _____% ±2 or exceeds _____% ±2. Also, when either engine Ng speed drops below _____% ±2.
+  Ref: TO 1H-1(U)N-1 Pg: 1-90
+  A. 92, 103, 52
+  B. 103, 92, 52
+  C. 52, 92, 103
+  D. 52, 103, 92
+  Correct: A. 92, 103, 52
+
+16. (Wire Strike Protection System) During takeoff and at any time the helicopter skids are close to the ground (nose low at _____° or more) can result in ground contact of the WSPS lower cutter tip.
+  Ref: TO 1H-1(U)N-1 Pg: 1-93
+  A. 7
+  B. 8
+  C. 10
+  D. 12
+  Correct: C. 10
+
+17. (Exterior Inspection) Accumulation of __________ will be removed prior to flight. Failure to do so can result in hazardous flight, due to aerodynamic and center of gravity disturbances.
+  Ref: TO 1H-1(U)N-1 Pg: 2-5
+  A. snow and ice
+  B. dirt and grass
+  C. static electricity
+  D. water
+  Correct: A. snow and ice
+
+18. (Exterior Inspection) The rotor blade skin will be inspected for __________. All suspected damage will be inspected by maintenance personnel to determine the extent of damage.
+  Ref: TO 1H-1(U)N-1 Pg: 2-5
+  A. dents
+  B. creases and skin delamination
+  C. corrosion
+  D. all of the above
+  Correct: D. all of the above
+
+19. (Interior Inspection and Before Start) When moving the collective without hydraulic assist, grip the collective __________ to avoid stress in the area between the throttles.
+  Ref: TO 1H-1(U)N-1 Pg: 2-10
+  A. at the collective switch box
+  B. at the number one throttle
+  C. at the number two throttle
+  D. at the throttles
+  Correct: D. at the throttles
+
+20. (Interior Inspection and Before Start) Battery starts with static voltage below _____ volts may result in a hot start. Battery starts should not be attempted with voltage below _____ volts.
+  Ref: TO 1H-1(U)N-1 Pg: 2-12
+  A. 20, 20
+  B. 20, 23.5
+  C. 23.5, 20
+  D. 23.5, 23.5
+  Correct: C. 23.5, 20
+
+21. (Interior Inspection and Before Start) If external power voltage exceeds _____ volts turn off external power immediately, adjust the APU to provide lower voltage. Damage to the aircraft electrical system could occur at voltages above _____ volts.
+  Ref: TO 1H-1(U)N-1 Pg: 2-12
+  A. 29.5, 29.5
+  B. 23.5, 23.5
+  C. 20, 20
+  D. None of the Above
+  Correct: A. 29.5, 29.5
+
+22. (Starting Engines) To preclude possible hearing loss, ensure all personnel within _____ feet of the aircraft wear hearing protection.
+  Ref: TO 1H-1(U)N-1 Pg: 2-14
+  A. 20
+  B. 30
+  C. 10
+  D. 45
+  Correct: B. 30
+
+23. (Starting Engines) If ITT exceeds _____° C, move the throttle to OFF.
+  Ref: TO 1H-1(U)N-1 Pg: 2-15
+  A. 770
+  B. 810
+  C. 870
+  D. 1090
+  Correct: D. 1090
+
+24. (Starting Engines) ITT above _____° C shall be monitored during start and if time exceeds limits shown in Figure 5-1 (Engine Overtemperature - Starting), a hot start has occurred.
+  Ref: TO 1H-1(U)N-1 Pg: 2-15
+  A. 770
+  B. 810
+  C. 870
+  D. 1090
+  Correct: C. 870
+
+25. (Starting Engines) For a hot start or impending overtemp, continue to motor the engine until________. If any limits are exceeded, annotate in the AFTO 781A.
+  Ref: TO 1H-1(U)N-1 Pg: 2-15
+  A. 30 seconds have passed
+  B. ITT decreases to within normal operating limits
+  C. ITT decreases to within caution range of operating limits
+  D. 15 seconds have passed
+  Correct: B. ITT decreases to within normal operating limits
+
+26. (Starting Engines) During cold weather start it is permissible for oil pressure to reach _____ PSI maximum transient during throttle sequence for _____ seconds.
+  Ref: TO 1H-1(U)N-1 Pg: 2-15
+  A. 150, 10
+  B. 150, 30
+  C. 112, 10
+  D. 112, 30
+  Correct: A. 150, 10
+
+27. (Starting Engines) The start must be terminated if ITT fails to rise within _____ seconds after opening the throttle.
+  Ref: TO 1H-1(U)N-1 Pg: 2-15
+  A. 5
+  B. 15
+  C. 20
+  D. 30
+  Correct: B. 15
+
+28. (Before Taxi) Pull pedestal cooling control knob out when temperature is at or above _____ °C. If the OAT is more than _____ ° C, the vent blower should also be turned on. At least one of the two intake control valves must be open in order for cool air to reach the center pedestal.
+  Ref: TO 1H-1(U)N-1 Pg: 2-22
+  A. 5, 10
+  B. 10, 5
+  C. 19, 29
+  D. 29, 19
+  Correct: C. 19, 29
+
+29. (Taxi) Cockpit readings that do not agree with the computed torque readings (from Appendix A), but do not exceed plus _____% of computed values, may be considered acceptable. If cockpit torque readings differ from computed values by more than plus _____% for a five foot hover, check cockpit versus computed power for OGE hover. If the two agree within plus _____%, the aircraft may be flown provided OGE power is used for mission planning.
+  Ref: TO 1H-1(U)N-1 Pg: 2-25
+  A. 2
+  B. 4
+  C. 20
+  D. None of the Above
+  Correct: B. 4
+
+30. (Takeoff) The airspeed, vertical velocity and altimeter are unreliable below _____ because of the rotor downwash on the pitot static system. During takeoff, do not rely on these instruments until at least _____.
+  Ref: TO 1H-1(U)N-1 Pg: 2-26
+  A. IGE
+  B. ETL
+  C. OGE
+  D. 30 KIAS
+  Correct: D. 30 KIAS
+
+31. (Takeoff) If the aircraft cannot be stabilized at _________ hover without RPM bleed off, it is overloaded for the current conditions. Cargo and/or passengers should be off loaded until RPM remains normal. If the wind is at or above ETL, the operational value of the slide takeoff has been practically eliminated.
+  Ref: TO 1H-1(U)N-1 Pg: 2-27
+  A. a two foot
+  B. a four foot
+  C. an OGE
+  D. None of the Above
+  Correct: A. a two foot
+
+32. (After Landing) Maintain flight idle _____ minute prior to closing throttles to stabilize engine temperatures.
+  Ref: TO 1H-1(U)N-1 Pg: 2-33
+  A. one
+  B. two
+  C. five
+  D. fifteen
+  Correct: A. one
+
+33. (Emergency Procedures) The nature and environment of the emergency dictate that a landing be made without delay to assure survival of the occupants.
+  Ref: TO 1H-1(U)N-1 Pg: 3-3
+  A. Land Immediately
+  B. Land As Soon As Possible
+  C. Land As Soon As Practical
+  D. None of the above
+  Correct: A. Land Immediately
+
+34. (Emergency Procedures) The nature and environment of the emergency dictate that a landing be made at the first available area which will assure minimum injury to crew or minimum damage to the aircraft.
+  Ref: TO 1H-1(U)N-1 Pg: 3-3
+  A. Land Immediately
+  B. Land As Soon As Possible
+  C. Land As Soon As Practical
+  D. None of the above
+  Correct: B. Land As Soon As Possible
+
+35. (Emergency Procedures) The nature and environment of the emergency dictate that a landing be made at the first available area or landing site which will assure no injury to the crew or damage to the aircraft and provides acceptable access for corrective action.
+  Ref: TO 1H-1(U)N-1 Pg: 3-3
+  A. Land Immediately
+  B. Land As Soon As Possible
+  C. Land As Soon As Practical
+  D. None of the above
+  Correct: C. Land As Soon As Practical
+
+36. (Emergency Shutdown Procedures) Applying the rotor brake above _____% Nr will increase the tendency for the aircraft to spin on smooth surfaces.
+  Ref: TO 1H-1(U)N-1 Pg: 3-5
+  A. 10
+  B. 20
+  C. 30
+  D. 40
+  Correct: D. 40
+
+37. (Engine Fire on the Ground) If a fire pull handle was previously pulled, reset the handle prior to actuating the __________ switch.
+  Ref: TO 1H-1(U)N-1 Pg: 3-6
+  A. PART SEP
+  B. INVERTER
+  C. FIRE EXT
+  D. BATTERY
+  Correct: C. FIRE EXT
+
+38. (Lightning Strikes) When lightning is encountered at night, the interior and instrument lights should be turned to _____ intensity to preclude temporary blindness.
+  Ref: TO 1H-1(U)N-1 Pg: 3-7
+  A. full
+  B. medium
+  C. low
+  D. none of the above
+  Correct: A. full
+
+39. (Main Rotor Malfunctions) The severity of the malfunction and the risk associated with continued flight may require the pilot to __________.
+  Ref: TO 1H-1(U)N-1 Pg: 3-8
+  A. land as soon as practical
+  B. land as soon as possible
+  C. land immediately
+  D. return to base
+  Correct: C. land immediately
+
+40. (Loss of Pitch Control to One Blade) If loss of pitch control to one blade occurs: __________.
+  Ref: TO 1H-1(U)N-1 Pg: 3-8
+  A. return to base
+  B. land as soon as practical
+  C. land as soon as possible
+  D. land immediately
+  Correct: D. land immediately
+
+41. (Complete Loss of Tail Rotor Thrust) Tail rotor failure can put the aircraft in such an attitude with respect to the rotor disk and the natural horizon, that the pilot naturally tends toward _____ cyclic to correct the attitude. These cyclic inputs combined with aircraft attitude can exceed the 11° flapping angle and induce mast bumping.
+  Ref: TO 1H-1(U)N-1 Pg: 3-9
+  A. left forward
+  B. right rear
+  C. right forward
+  D. left rear
+  Correct: B. right rear
+
+42. (Complete Loss of Tail Rotor Thrust (Uncontrollable) ) At airspeeds below _____ knots, controllability is doubtful and entering autorotation is the only means to recover the aircraft. In a hover, immediately retard throttles to flight idle, maintain level attitude and make an autorotational landing.
+  Ref: TO 1H-1(U)N-1 Pg: 3-9
+  A. 30
+  B. 40
+  C. 50
+  D. 60
+  Correct: D. 60
+
+43. (Complete Loss of Tail Rotor Thrust (Uncontrollable) ) The inadvertent application of power at touchdown could have catastrophic results. PRIOR TO THE _____, ROTATE THROTTLES OFF. This will eliminate the possibility of inadvertent throttle input prior to touchdown.
+  Ref: TO 1H-1(U)N-1 Pg: 3-10
+  A. FLARE
+  B. GO-AROUND
+  C. POWER RECOVERY
+  D. LANDING
+  Correct: A. FLARE
+
+44. (Complete Loss of Tail Rotor Thrust (Uncontrollable) ) Failure to maintain 60 knots until touchdown may result in an ________ and unrecoverable spin to the ____.
+  Ref: TO 1H-1(U)N-1 Pg: 3-10
+  A. controllable, left
+  B. uncontrollable, right
+  C. controllable, right
+  D. uncontrollable, left
+  Correct: B. uncontrollable, right
+
+45. (Engine Failure) During cruise, the _______________ could fail without recognition unless either a higher power setting is used or a single engine failure should occur.
+  Ref: TO 1H-1(U)N-1 Pg: 3-13
+  A. engine driven fuel pump
+  B. automatic fuel control
+  C. integrated valve and filter assembly
+  D. none of the above
+  Correct: B. automatic fuel control
+
+46. (Single Engine Failure Inflight) Prior to beginning the approach ensure power available is sufficient for the desired approach and possible _____.
+  Ref: TO 1H-1(U)N-1 Pg: 3-14
+  A. flare
+  B. power recovery
+  C. go-around
+  D. landing
+  Correct: C. go-around
+
+47. (Engine Oil System Malfunctions) Monitor the affected engine instruments and upon any indication of impending engine failure, refer to ____________________.
+  Ref: TO 1H-1(U)N-1 Pg: 3-15
+  A. DUAL ENGINE FAILURE
+  B. ENGINE RESTART INFLIGHT (Automatic Start)
+  C. ENGINE RESTART INFLIGHT (Manual Start)
+  D. ENGINE SHUTDOWN INFLIGHT
+  Correct: D. ENGINE SHUTDOWN INFLIGHT
+
+48. (Engine Shutdown Inflight) Ensure that the __________ caution light illuminates during shutdown. Failure of the particle separator door to close could prevent normal engine cool down and fuel/fume elimination. It may be necessary to position the particle separator switch to OFF to ensure door closure.
+  Ref: TO 1H-1(U)N-1 Pg: 3-16
+  A. HYD SYS
+  B. OIL PRESSURE
+  C. AC FAIL
+  D. PART SEP OFF
+  Correct: D. PART SEP OFF
+
+49. (Engine Restart Inflight) A failed engine should not be started inflight unless it can be determined that it is reasonably safe to do so. Before restarting engine inflight allow _____ seconds of gas generator coast down with throttle in the OFF position to purge the engine of fumes and fuel.
+  Ref: TO 1H-1(U)N-1 Pg: 3-16
+  A. 0
+  B. 15
+  C. 30
+  D. 60
+  Correct: C. 30
+
+50. (Engine Restart Inflight (Automatic/Manual Start) ) A relight should be obtained within 15 seconds and will be evidenced by a rise in _____ and _____.
+  Ref: TO 1H-1(U)N-1 Pg: 3-16
+  A. Ng, ITT
+  B. Ng, fuel flow
+  C. ITT, fuel flow
+  D. fuel flow, amperage
+  Correct: A. Ng, ITT
+
+51. (Dual Engine Failure) Nr can only be regained by lowering the collective and reducing the drag effect of the main rotor. Should the lowering of the collective be delayed and Nr decays below _____%, the main rotor blades will stall and Nr can never be regained.
+  Ref: TO 1H-1(U)N-1 Pg: 3-18
+  A. 88
+  B. 83
+  C. 78
+  D. 71
+  Correct: C. 78
+
+52. (Dual Engine Failure) Abrupt lowering of the collective and simultaneous forward movement of the cyclic during flight at high power can result in ____________________.
+  Ref: TO 1H-1(U)N-1 Pg: 3-18
+  A. a zero or negative "G" maneuver
+  B. mast bumping
+  C. loss of aircraft control
+  D. all of the above
+  Correct: D. all of the above
+
+53. (Dual Engine Failure) One of the most common errors is that of landing in a _____ attitude. This often results in such rapid "nose down" pitching that the main rotor strikes the tail boom. To avoid tail boom strikes by the main rotor, aft cyclic should not be applied after ground contact is made. Regardless of the force with which the helicopter strikes the ground, damage will be much less if it strikes level.
+  Ref: TO 1H-1(U)N-1 Pg: 3-19
+  A. "tail high"
+  B. "tail low"
+  C. "positive"
+  D. "negative"
+  Correct: B. "tail low"
+
+54. (Engine Fire Inflight) Do not pull the fire handle with the fire extinguisher switch in any position but _____.
+  Ref: TO 1H-1(U)N-1 Pg: 3-24
+  A. MAIN
+  B. RESERVE
+  C. ON
+  D. OFF
+  Correct: D. OFF
+
+55. (Smoke and Fume Elimination) All unidentifiable odors shall be considered toxic. If airborne, _______________. Do not resume flight until source of odor is identified.
+  Ref: TO 1H-1(U)N-1 Pg: 3-25
+  A. return to base
+  B. land as soon as practical
+  C. land as soon as possible
+  D. land immediately
+  Correct: B. land as soon as practical
+
+56. (Fuel Control System Actuation) Confirm shift of fuel control by observing changes or fluctuations in __________.
+  Ref: TO 1H-1(U)N-1 Pg: 3-28
+  A. Ng
+  B. ITT
+  C. fuel flow
+  D. All of the Above
+  Correct: D. All of the Above
+
+57. (Fuel Control System Actuation) During an engine compressor stall, the possibility exists that extreme temperatures caused by a rapidly rising _____ may cause engine turbine blade damage resulting in engine failure. Additionally during compressor stalls, manually increasing fuel flow to correct for a low power condition may compound the _____ over temp condition.
+  Ref: TO 1H-1(U)N-1 Pg: 3-28
+  A. Ng
+  B. ITT
+  C. Nf
+  D. Nr
+  Correct: B. ITT
+
+58. (Main Driveshaft Failure) Rotor control is critical during MAIN DRIVE SHAFT FAILURE. _____ will immediately and rapidly decay, jeopardizing your ability to autorotate. It is imperative to react instantly and lower the collective to maintain _____. You must also be conscious of possibly inducing negative Gs/mast bumping with rapid collective reduction. (Refer to Main Rotor RPM Decay Rate, Figure 3-2).
+  Ref: TO 1H-1(U)N-1 Pg: 3-30
+  A. Ng
+  B. ITT
+  C. Nf
+  D. Nr
+  Correct: D. Nr
+
+59. (Main Driveshaft Failure) Due to the violent nature of this failure you can expect multiple emergencies to occur. Uncontrolled overspeeding _____ may result in explosive engine failures. Collateral damage to other components, including flight controls, can occur. No set procedure can be developed for compounding emergencies but in all cases, rotor control is critical.
+  Ref: TO 1H-1(U)N-1 Pg: 3-30
+  A. Ngs
+  B. ITTs
+  C. Nfs
+  D. Nr
+  Correct: C. Nfs
+
+60. (Electrical Power System Malfunction) _____ use a circuit breaker as a switch. Circuit breakers are to be pulled only when necessary to isolate a system during an emergency or for maintenance.
+  Ref: TO 1H-1(U)N-1 Pg: 3-32
+  A. Sometimes
+  B. Always
+  C. Never
+  D. None of the Above
+  Correct: C. Never
+
+61. (DC Generator Failure) If equipment powered by the __________ Bus is required, the Non-Essential Bus switch must be in the MANUAL position.
+  Ref: TO 1H-1(U)N-1 Pg: 3-32
+  A. NON ESS
+  B. ESS
+  C. MAIN
+  D. BATTERY
+  Correct: A. NON ESS
+
+62. (Hydraulic System Failure) There is a possibility that a partial or total loss of hydraulic power could be the result of an electrical short circuit to the solenoid operated shut-off valve. Pulling the _________ circuit breaker out may restore hydraulic power. If this procedure does not restore power, then the circuit breaker must be reset to restore the function of the Hydraulic Control Master Switch.
+  Ref: TO 1H-1(U)N-1 Pg: 3-35
+  A. HYD CONT
+  B. MAIN INVTR
+  C. STBY INVTR
+  D. IDLE STOP
+  Correct: A. HYD CONT
+
+63. (Crew and Passenger Briefing Guides) In typical configuration, the UH-1N has ___ fire extinguishers and ____ first aid kits.
+  Ref: TO 1H-1(U)N-1 Pg: 4-46
+  A. 2, 4
+  B. 4, 2
+  C. 3, 6
+  D. 1, 6
+  Correct: A. 2, 4
+
+64. (Instrument Markings) _____ markings indicate the limit above or below which continued operation will cause damage or shorten component life.
+  Ref: TO 1H-1(U)N-1 Pg: 5-1
+  A. Green
+  B. Yellow
+  C. Red
+  D. None of the above
+  Correct: C. Red
+
+65. (Instrument Markings) _____ markings indicate a safe or normal range of operation.
+  Ref: TO 1H-1(U)N-1 Pg: 5-1
+  A. Green
+  B. Yellow
+  C. Red
+  D. None of the above
+  Correct: A. Green
+
+66. (Instrument Markings) Flight with indications in the yellow range is __________.
+  Ref: TO 1H-1(U)N-1 Pg: 5-1
+  A. not recommended
+  B. acceptable
+  C. permissible for 5 minutes
+  D. none of the above
+  Correct: A. not recommended
+
+67. (Engine Limits) Duration of single engine operation above _____% Q must be entered in AFTO 781A.
+  Ref: TO 1H-1(U)N-1 Pg: 5-2
+  A. 88
+  B. 83
+  C. 78
+  D. 71
+  Correct: C. 78
+
+68. (ITT Fluctuation Limitations) Allowable ITT fluctuation is ±_____°C, provided fluctuations are not rapid or erratic.
+  Ref: TO 1H-1(U)N-1 Pg: 5-2
+  A. 7
+  B. 5
+  C. 4
+  D. 2
+  Correct: B. 5
+
+69. (Transmission Limitations) Operation equal to or greater than _____% torque is limited to 5 minutes.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 88
+  B. 83
+  C. 78
+  D. 71
+  Correct: A. 88
+
+70. (Transmission Limitations) Transient fluctuations up to ±_____ PSI within the normal operating range are permissible provided the oil temperature remains normal.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 2
+  B. 4
+  C. 5
+  D. 7
+  Correct: D. 7
+
+71. (Torque Splits) The maximum allowable steady state torque split between the number one and number two engine is _____%. Transient torque splits during power changes are not abnormal as long as torque needles remarry within 20 seconds.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 2
+  B. 4
+  C. 5
+  D. 7
+  Correct: B. 4
+
+72. (CGB Oil Pressure Fluctuation Limitations) Allowable combining gear box oil pressure fluctuations are ±_____ PSI within the normal operating range of __________ PSI. This fluctuation is acceptable if it occurs at mean indications of 60 or 85 PSI such that readings of 55 to 65 or 80 to 90 PSI are experienced.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 5, 40 to 60
+  B. 7, 40 to 60
+  C. 5, 60 to 85
+  D. 7, 60 to 85
+  Correct: C. 5, 60 to 85
+
+73. (Engine Oil Pressure Fluctuation Limitations) Allowable oil pressure fluctuation is ±_____ PSI, within the normal operating range of __________ PSI.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 7, 40 to 80
+  B. 7, 80 to 112
+  C. 5, 40 to 80
+  D. 5, 80 to 112
+  Correct: D. 5, 80 to 112
+
+74. (Airspeed Limitations) The maximum permissible airspeed is _____ KIAS. The maximum airspeed with an extended load on the rescue hoist is _____ KIAS.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 120, 55
+  B. 120, 30
+  C. 130, 55
+  D. 130, 30
+  Correct: D. 130, 30
+
+75. (Engine Oil Temperature and Pressure) At _____% engine torque or greater and with 100% Nr, minimum engine oil pressure is ____ PSI.
+  Ref: TO 1H-1(U)N-1 Pg: 5-6
+  A. 5, 40
+  B. 5, 80
+  C. 15, 40
+  D. 15, 80
+  Correct: D. 15, 80
+
+76. (Sideward and Rearward Airspeeds) Sideward airspeed is limited to a maximum of _____ knots, including wind factor. Sideward is the 90°quadrant on either side of the aircraft, from 45° off the nose to 45° off the tail.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 30
+  B. 35
+  C. 80
+  D. 120
+  Correct: B. 35
+
+77. (Sideward and Rearward Airspeeds) Rearward airspeed is limited to a maximum of _____ knots including wind factor. Rearward is the 90° quadrant 45° on either side of the tail.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 30
+  B. 35
+  C. 80
+  D. 120
+  Correct: A. 30
+
+78. (Cargo Door Airspeed Limits) The maximum airspeed with the cargo doors partially open (unsecured) or to open and close doors inflight is _____ KIAS.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 55
+  B. 80
+  C. 120
+  D. 130
+  Correct: B. 80
+
+79. (Cargo Door Airspeed Limits) Maximum airspeed with cargo doors fully opened and secured is _____ KIAS.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 55
+  B. 80
+  C. 120
+  D. 130
+  Correct: C. 120
+
+80. (Autorotations) Under all circumstances, autorotational landings should be attempted into the wind. The maximum steady state autorotation airspeed is _____ KIAS.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. 60
+  B. 100
+  C. 110
+  D. 130
+  Correct: C. 110
+
+81. (Center of Gravity Limitations) The lateral center of gravity limits are _____ inches left or right of the longitudinal axis.
+  Ref: TO 1H-1(U)N-1 Pg: 5-9
+  A. 6
+  B. 2
+  C. 1
+  D. 0
+  Correct: A. 6
+
+82. (Gross Weight Limits) The maximum takeoff gross weight of the helicopter is _____ pounds. The maximum ramp gross weight of the helicopter is _____ pounds. Aircraft are restricted from any ground handling, taxi, or takeoff operations above _____ pounds.
+  Ref: TO 1H-1(U)N-1 Pg: 5-9
+  A. 10500, 11000, 10500
+  B. 10500, 10500, 10500
+  C. 11000, 11000, 11000
+  D. 11000, 15000, 11000
+  Correct: A. 10500, 11000, 10500
+
+83. (Gross Weight Limits) National Emergency/Nuclear Weapons Security Contingency operations may require flight operations in excess of 10,500 pounds. In this event, gross weights up to 11,000 pounds are authorized, subject to the following warning(s):
+  Ref: TO 1H-1(U)N-1 Pg: 5-9
+  A. Single Engine Capability may be marginal or non-existent at higher density altitudes.
+  B. Safe autorotation capability may not be available, especially at higher density altitudes.
+  C. Aircraft performance and handling qualities may be significantly degraded.
+  D. All of the above
+  Correct: D. All of the above
+
+84. (Flight Restrictions) All operations above 10,500 pounds are increased risk missions and must be kept to an absolute minimum. No flight above 10,500 pounds should ever be construed as a routine or normal operation. The following restriction(s) apply to flights above 10,500 pounds:
+  Ref: TO 1H-1(U)N-1 Pg: 5-9
+  A. CG limits are 134-139.
+  B. Rotor speed should be maintained at 100 percent.
+  C. Takeoff, landing and In-Ground-Effect (IGE) maneuvering is limited to current flight manual parameters.
+  D. All of the above
+  Correct: D. All of the above
+
+85. (Wind Limitations) Starting and stopping rotors with surface winds above _____ knots is prohibited.
+  Ref: TO 1H-1(U)N-1 Pg: 5-12
+  A. 45
+  B. 40
+  C. 20
+  D. 15
+  Correct: A. 45
+
+86. (Extreme Temperature Operation) Operation in ambient temperatures above _____° C and below _____° C is prohibited.
+  Ref: TO 1H-1(U)N-1 Pg: 5-12
+  A. 52, 54
+  B. 54, 52
+  C. 52, -54
+  D. 54, -52
+  Correct: C. 52, -54
+
+87. (Maximum Altitude Operation) The maximum operational altitude is 15,000 feet pressure and/or density altitudes. For gross weights above 10,000 pounds, the maximum operational altitude is _____ feet pressure and/ or density altitude.
+  Ref: TO 1H-1(U)N-1 Pg: 5-12
+  A. 6600
+  B. 8000
+  C. 10000
+  D. 15000
+  Correct: C. 10000
+
+88. (Vortex Ring State) Increasing collective has no effect on recovery and will aggravate vortex ring state. During approaches at less than _____ knots, do not exceed _____ feet per minute descent rate.
+  Ref: TO 1H-1(U)N-1 Pg: 6-9
+  A. 55, 800
+  B. 40, 800
+  C. 800, 40
+  D. 800, 55
+  Correct: B. 40, 800
+
+89. (Settling With Power) Avoid rates of descent in excess of _____ feet per minute with airspeed below _____ knots.
+  Ref: TO 1H-1(U)N-1 Pg: 6-10
+  A. 55, 800
+  B. 40, 800
+  C. 800, 40
+  D. 800, 55
+  Correct: C. 800, 40
+
+90. (Settling With Power) When landing ______, the aircraft skids are designed to absorb a majority of the impact. Landing _____ will increase aircrew survivability and decrease overall damage to the aircraft.
+  Ref: TO 1H-1(U)N-1 Pg: 6-10
+  A. nose low
+  B. level
+  C. nose high
+  D. straight ahead
+  Correct: B. level
+
+91. (Instrument Climb) Climbs with vertical velocities over _____ fpm are not recommended.
+  Ref: TO 1H-1(U)N-1 Pg: 7-2
+  A. 100
+  B. 500
+  C. 1000
+  D. 1500
+  Correct: D. 1500
+
+92. (Instrument Descent) Rates of descent over _____ fpm are not recommended.
+  Ref: TO 1H-1(U)N-1 Pg: 7-2
+  A. 100
+  B. 500
+  C. 1000
+  D. 1500
+  Correct: C. 1000
+
+93. (Rain) If the windshield wipers do not start in LOW or MED position, turn the control switch to _____. After the wiper starts, return the control switch to the desired position.
+  Ref: TO 1H-1(U)N-1 Pg: 7-3
+  A. PARK
+  B. OFF
+  C. MED
+  D. HIGH
+  Correct: D. HIGH
+
+94. (Flight in Icing Conditions) Intentional flight through known icing conditions with OAT colder than _____° C is prohibited.
+  Ref: TO 1H-1(U)N-1 Pg: 7-3
+  A. - 10
+  B. - 5
+  C. 5
+  D. 10
+  Correct: B. - 5
+
+95. (Flight in Icing Conditions) The particle separator should be in AUTO when visible moisture is evident at temperatures below _____° C.
+  Ref: TO 1H-1(U)N-1 Pg: 7-3
+  A. 5
+  B. 10
+  C. -5
+  D. -10
+  Correct: A. 5
+
+96. (Flight in Icing Conditions) Before entering possible icing conditions, (visible moisture with temperature below _____° C), the pilot should actuate the pitot heat.
+  Ref: TO 1H-1(U)N-1 Pg: 7-3
+  A. 5
+  B. 10
+  C. -5
+  D. -10
+  Correct: B. 10
+
+97. (Turbulence and Thunderstorm) Aircraft are restricted from flight in areas where turbulence is known to exceed _____.
+  Ref: TO 1H-1(U)N-1 Pg: 7-3
+  A. light
+  B. moderate
+  C. severe
+  D. extreme
+  Correct: B. moderate
+
+98. (Wind Direction and Velocity) Depending on wind velocity, the apparent airspeed/ground speed relationship changes when turning downwind. After the turn, less airspeed is required to maintain ground speed. Reducing airspeed may result in loss of ETL which increases the power required to maintain altitude. When operating close to the surface, especially during downwind maneuvers, _____ and _____ required must be monitored closely.
+  Ref: TO 1H-1(U)N-1 Pg: 7-9
+  A. descent rate, torque
+  B. airspeed, power
+  C. Nfs, Nr
+  D. CGB oil pressure, transmission oil pressure
+  Correct: B. airspeed, power
+
+99. (Cold Weather Operations) When the outside air temperature is below minus _____° C, do not advance throttles beyond _____% Ng until engine, combining gearbox, and transmission oil pressures are stabilized within desired operating range.
+  Ref: TO 1H-1(U)N-1 Pg: 7-15
+  A. 18, 61
+  B. 18, 71
+  C. 10, 61
+  D. 10, 71
+  Correct: B. 18, 71
+
+100. (Performance Data) All charts are presented for _____% Nf and Nr. It is strongly recommended that _____% RPM be used at 40 knots and below.
+  Ref: TO 1H-1(U)N-1 Pg: A-1
+  A. 100
+  B. 97
+  C. 91
+  D. 78
+  Correct: A. 100
+
+101. (Density Altitude) Humidity affects density altitude. The higher the humidity, the higher the density altitude. This in fact could have an effect on power required. Throughout this manual add _____ feet density altitude for each _____ percent increase in humidity above 40 percent.
+  Ref: TO 1H-1(U)N-1 Pg: A-8
+  A. 100, 10
+  B. 220, 10
+  C. 100, 5
+  D. 220, 5
+  Correct: A. 100, 10
+
+102. (Fuel Flow) Increase fuel flow _____% for heater on.
+  Ref: TO 1H-1(U)N-1 Pg: A-11
+  A. 2
+  B. 4
+  C. 10
+  D. None of the above.
+  Correct: A. 2
+
+103. (Tail Rotor Effectiveness) To ensure adequate tail rotor and cyclic control margins, avoid winds in excess of _____ knots from approximately the __________ o'clock position. Avoiding winds from these critical azimuths can help preclude loss of tail rotor effectiveness.
+  Ref: TO 1H-1(U)N-1 Pg: A-46
+  A. 10, 2 to 4
+  B. 10, 8 to 10
+  C. 20, 2 to 4
+  D. 20, 8 to 10
+  Correct: C. 20, 2 to 4
+
+104. (Sideward and Rearward Airspeed) With gross weights above 9,600 pounds and density altitudes above 10,000 feet, _______.
+  Ref: TO 1H-1(U)N-1 Pg: 5-3
+  A. Sideward and rearward flight is not recommended.
+  B. Sufficient control authority may not be available to attain sideward and rearward flight velocities in excess of 15 knots
+  C. Sideward and rearward flight may cause a vertical oscillation at approximately 3 cycles per second
+  D. Adequate control margin exists at 25 knots sideward and 20 knots rearward.
+  Correct: B. Sufficient control authority may not be available to attain sideward and rearward flight velocities in excess of 15 knots
